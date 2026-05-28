@@ -6,11 +6,19 @@
 **Роль**  
 Продуктовый аналитик
 
-**Стек**  
-`Python` `Pandas` `Matplotlib` `SciPy` `Statsmodels`
+**Стек технологий**
+
+![Python](https://img.shields.io/badge/python-3.9+-blue?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1.24+-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7+-11557c?logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-1.10+-8CAAE6?logo=scipy&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-0.14+-6C2DC7?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
 
 **Статус**  
-✅ Завершен
+![Status](https://img.shields.io/badge/status-completed-success?logo=github&logoColor=white)
+![Coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)
 
 ---
 
